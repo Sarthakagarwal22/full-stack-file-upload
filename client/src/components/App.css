@@ -1,0 +1,33 @@
+
+.main_app{
+	padding:20px;
+	font-family: Regular;
+}
+
+.progressbar_outer{
+	background:#a0a0a0;
+	display:flex;
+	width:250px;
+	height:40px;
+	align-items:center;
+	justify-content:center;
+}
+
+.progressbar_inner{
+	background:var(--blue);
+	height:30px;
+	position:absolute;
+	left:25px;
+}
+
+.input_folder,.input_files{
+	font-family: Regular;	
+}
+
+.recent_uploads_list,.uploaded_file_name,.uploaded_file_time{
+	padding:5px 0;
+	text-align: center;
+}
+.uploaded_file_name,.uploaded_file_date_time{
+	margin: 0;
+}

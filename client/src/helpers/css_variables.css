@@ -1,0 +1,36 @@
+
+:root {
+  --black: rgb(0,0,0);
+  --dark-grey: rgba(0,0,0,0.8);
+  --grey:rgba(0,0,0,0.5);
+  --light-grey:rgba(0,0,0,0.2);
+  --blue: #6b98b8;
+}
+
+@font-face{
+	font-family: Regular;
+	src: url(./fonts/Regular.otf)
+}
+
+@font-face{
+	font-family: Bold;
+	src: url(./fonts/Bold.otf);
+}
+
+@font-face{
+	font-family: Medium;
+	src: url(./fonts/Medium.otf);
+}
+
+@font-face{
+	font-family: Italics;
+	src: url(./fonts/Italic.otf);
+}
+
+.coral {
+	color:var(--coral);
+}
+
+.red{
+	color: red;
+}
