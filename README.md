@@ -1,18 +1,18 @@
 # full-stack-file-upload 
 
 This is a full stack web application built using the following technologies :-
-
-Mongoose
-Mongo DB
-React
-Express
-NodeJs
-Axios
-Bcrypt
-Body-Parser
-Redux
-Redux-Thunk
-
+<ol>
+<li>Mongoose</li>
+<li>Mongo DB</li> 
+<li>React</li>
+<li>Express</li>
+<li>NodeJs</li>
+<li>Axios</li>
+<li>Bcrypt</li>
+<li>Body-Parser</li>
+<li>Redux</li>
+<li>Redux-Thunk</li>
+</ol>
 
 System Requirements - 
 
