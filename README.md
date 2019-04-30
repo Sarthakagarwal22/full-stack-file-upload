@@ -1,7 +1,7 @@
 # full-stack-file-upload 
 
 This is a full stack web application built using the following technologies :-
-<ol>
+<ul>
 <li>Mongoose</li>
 <li>Mongo DB</li> 
 <li>React</li>
@@ -12,7 +12,7 @@ This is a full stack web application built using the following technologies :-
 <li>Body-Parser</li>
 <li>Redux</li>
 <li>Redux-Thunk</li>
-</ol>
+</ul>
 
 System Requirements - 
 
